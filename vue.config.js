@@ -1,4 +1,4 @@
 module.exports = {
   transpileDependencies: ["vuetify"],
-  publicPath: process.env.NODE_ENV === "production" ? "/dynamic-theme/" : "/"
+  publicPath: process.env.NODE_ENV === "production" ? "/vuetify-dynamic-theme/" : "/"
 };

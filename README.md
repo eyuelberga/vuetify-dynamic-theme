@@ -1,5 +1,5 @@
-# dynamic-theme
-
+# vuetify-dynamic-theme
+* you can find blog post at: https://medium.com/@eyuelwoldemichael/changing-application-theme-dynamically-in-vuetify-js-c01d640699c4
 ## Project setup
 ```
 yarn install
